@@ -1,2 +1,2 @@
 # Deep_Learning
--Titanik verisetlerine kaggle.com'dan ulaşılabilir.
+-İlk üçü hariç diğer verisetlerine kaggle.com'dan ulaşılabilir. İlk üçünden emin değilim.
